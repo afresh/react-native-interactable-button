@@ -1,12 +1,19 @@
 # react-native-interactable-button
 > Interactable button component in React Native.
+>
 > 基于 React Native 开发的可交互的按钮组件。
 
-### Example
+It solves the conflict between dragging events and clicking events.
+
+解决了拖拽事件与点击事件冲突的问题。
+
+### Example 示例
 ![demo](./demo.gif 'demo')
 
 
 import InteractableButton and use it.
+
+引入InteractableButton并使用。
 
 ```
 import InteractableButton from "./components/interactableButton";
